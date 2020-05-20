@@ -1,0 +1,940 @@
+﻿Log file open, 05/20/20 12:36:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Domek_na_drzewie
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106067
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:165][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:172][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:172][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-10.36.39:172][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-10.36.39:172][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:172][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.20-10.36.39:172][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:172][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-10.36.39:173][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:173][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.20-10.36.39:174][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.20-10.36.39:174][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-10.36.39:174][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.20-10.36.39:178][  0]LogHAL: Display: Platform has ~ 16 GB [17066790912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.20-10.36.39:178][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.20-10.36.39:178][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-10.36.39:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.20-10.36.39:179][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.20-10.36.39:180][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Config/Windows/Engine.ini]
+[2020.05.20-10.36.39:180][  0]LogInit: Computer: LAPTOP-2E2LEE5I
+[2020.05.20-10.36.39:180][  0]LogInit: User: Aleks
+[2020.05.20-10.36.39:180][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.20-10.36.39:180][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.20-10.36.39:181][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.20-10.36.39:181][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.20-10.36.39:181][  0]LogMemory: Process Physical Memory: 105.21 MB used, 105.21 MB peak
+[2020.05.20-10.36.39:181][  0]LogMemory: Process Virtual Memory: 99.76 MB used, 99.76 MB peak
+[2020.05.20-10.36.39:181][  0]LogMemory: Physical Memory: 9216.17 MB used,  7059.99 MB free, 16276.16 MB total
+[2020.05.20-10.36.39:181][  0]LogMemory: Virtual Memory: 5121.18 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.05.20-10.36.39:184][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.20-10.36.39:210][  0]LogInit: Using OS detected language (pl-PL).
+[2020.05.20-10.36.39:210][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.05.20-10.36.39:211][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.05.20-10.36.39:212][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.05.20-10.36.39:213][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.20-10.36.39:254][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.20-10.36.39:254][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.20-10.36.39:461][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.20-10.36.39:461][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.20-10.36.39:461][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.20-10.36.39:461][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.20-10.36.39:557][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.05.20-10.36.39:558][  0]LogD3D11RHI:       4021/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.20-10.36.39:573][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.20-10.36.39:573][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.20-10.36.39:577][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.20-10.36.39:577][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.20-10.36.39:577][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.20-10.36.39:631][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.20-10.36.39:631][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.05.20-10.36.39:631][  0]LogWindows: EnumDisplayDevices:
+[2020.05.20-10.36.39:631][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.05.20-10.36.39:632][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.05.20-10.36.39:632][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.20-10.36.39:632][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.20-10.36.39:632][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.05.20-10.36.39:632][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.20-10.36.39:632][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.20-10.36.39:632][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.05.20-10.36.39:675][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.20-10.36.39:675][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.20-10.36.39:693][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.20-10.36.40:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.20-10.36.40:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.20-10.36.40:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.20-10.36.40:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.20-10.36.40:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.20-10.36.40:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.20-10.36.40:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.20-10.36.40:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.20-10.36.40:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.20-10.36.40:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.20-10.36.40:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.20-10.36.40:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.20-10.36.40:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.20-10.36.40:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.20-10.36.40:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.20-10.36.40:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.20-10.36.40:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.20-10.36.40:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.20-10.36.40:563][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.20-10.36.40:566][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.20-10.36.40:593][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Intermediate/Shaders/WorkingDirectory/19404/).
+[2020.05.20-10.36.40:593][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aleks/AppData/Local/Temp/UnrealShaderWorkingDir/F41364F9494B18B96372FA9C800F82D3/'.
+[2020.05.20-10.36.40:593][  0]LogXGEController: Cleaning working directory: C:/Users/Aleks/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.20-10.36.40:594][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.20-10.36.40:594][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.20-10.36.40:594][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.20-10.36.41:675][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/Aleks/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aleks/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.20-10.36.41:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.20-10.36.41:765][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.20-10.36.41:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.20-10.36.41:765][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.20-10.36.41:767][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aleks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.20-10.36.41:767][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.20-10.36.41:767][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.20-10.36.41:803][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.20-10.36.41:808][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.20-10.36.41:809][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.20-10.36.41:881][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2020.05.20-10.36.42:277][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-10.36.42:510][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.20-10.36.42:510][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.20-10.36.42:510][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.20-10.36.42:510][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.20-10.36.42:510][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.20-10.36.42:528][  0]LogNetVersion: Domek_na_drzewie 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3467246054)
+[2020.05.20-10.36.43:879][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038907 seconds
+[2020.05.20-10.36.43:889][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.20-10.36.43:889][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.20-10.36.43:889][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.20-10.36.44:429][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.20-10.36.44:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.20-10.36.44:491][  0]SourceControl: Source control is disabled
+[2020.05.20-10.36.44:491][  0]SourceControl: Source control is disabled
+[2020.05.20-10.36.44:492][  0]SourceControl: Source control is disabled
+[2020.05.20-10.36.44:493][  0]SourceControl: Source control is disabled
+[2020.05.20-10.36.44:587][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.20-10.36.44:599][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.20-10.36.44:599][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.20-10.36.44:708][  0]LogOcInput: OculusInput pre-init called
+[2020.05.20-10.36.44:716][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.20-10.36.44:716][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.20-10.36.44:806][  0]LogEngine: Initializing Engine...
+[2020.05.20-10.36.44:807][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.20-10.36.44:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.20-10.36.45:323][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.20-10.36.45:330][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.20-10.36.45:445][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.20-10.36.45:445][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.20-10.36.45:446][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.20-10.36.45:446][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.20-10.36.45:471][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.20-10.36.45:471][  0]LogAudioMixer: Display: Name: Głośniki (Realtek High Definition Audio)
+[2020.05.20-10.36.45:471][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.20-10.36.45:472][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.20-10.36.45:507][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2020.05.20-10.36.45:513][  0]LogInit: FAudioDevice initialized.
+[2020.05.20-10.36.45:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.20-10.36.45:727][  0]LogDerivedDataCache: Saved boot cache 0.21s 79MB C:/Users/Aleks/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.20-10.36.45:729][  0]LogInit: Texture streaming: Enabled
+[2020.05.20-10.36.45:740][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.20-10.36.45:741][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={CCAB96E3-4E68-78F0-4429-5CB4D4CFC9E5}
+[2020.05.20-10.36.45:741][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.20-10.36.45:743][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.20-10.36.45:785][  0]LogInit: Transaction tracking system initialized
+[2020.05.20-10.36.45:795][  0]BlueprintLog: New page: Editor Load
+[2020.05.20-10.36.45:828][  0]LocalizationService: Localization service is disabled
+[2020.05.20-10.36.46:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/' took 0.00s
+[2020.05.20-10.36.46:191][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.20-10.36.46:191][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.20-10.36.47:082][  0]LogSourceControl: Attempting "svn info --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.36.47:341][  0]LogSourceControl: Unable to detect system-level svn binary.
+[2020.05.20-10.36.47:341][  0]LogSourceControl: Using path E:/Program Files/UE_4.24/Engine/Binaries/ThirdParty/svn/Win64/svn.exe for svn operations
+[2020.05.20-10.36.47:379][  0]SourceControl: Warning: Successfully connected to repository http://usvn.us.edu.pl/svn/PPnD/trunk/
+[2020.05.20-10.36.47:379][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-10.36.47:379][  0]LightingResults: New page: Lighting Build
+[2020.05.20-10.36.47:380][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-10.36.47:380][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-10.36.47:380][  0]MapCheck: New page: Map Check
+[2020.05.20-10.36.47:380][  0]LightingResults: New page: Lighting Build
+[2020.05.20-10.36.47:416][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.20-10.36.47:498][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.20-10.36.47:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-10.36.47:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.20-10.36.47:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-10.36.47:538][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,211ms to complete.
+[2020.05.20-10.36.47:538][  0]LogFileHelpers: Loading map 'Template_Default' took 0.160
+[2020.05.20-10.36.47:699][  0]LogSourceControl: Attempting "svn info "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/" --xml --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.36.47:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-10.36.47:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-10.36.47:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-10.36.47:730][  0]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.36.47:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-10.36.47:737][  0]LogCollectionManager: Loaded 0 collections in 0.001608 seconds
+[2020.05.20-10.36.47:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Collections/' took 0.00s
+[2020.05.20-10.36.47:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Developers/Aleks/Collections/' took 0.00s
+[2020.05.20-10.36.47:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Collections/' took 0.00s
+[2020.05.20-10.36.47:755][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 3015 classes and 717 folders.
+[2020.05.20-10.36.47:758][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.20-10.36.47:817][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.20-10.36.47:822][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.20-10.36.47:884][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.20-10.36.47:886][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.20-10.36.47:893][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.20-10.36.48:009][  0]LogRenderer: Reallocating scene render targets to support 1096x680 Format 10 NumSamples 1 (Frame:1).
+[2020.05.20-10.36.48:173][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.20-10.36.48:173][  0]LogLoad: (Engine Initialization) Total time: 10.40 seconds
+[2020.05.20-10.36.48:173][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.20-10.36.48:277][  0]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie'
+[2020.05.20-10.36.48:277][  0]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.36.48:277][  0]SourceControl: Error: Authentication failed
+[2020.05.20-10.36.48:277][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.20-10.36.48:316][  1]LogAssetRegistry: Asset discovery search completed in 6.4361 seconds
+[2020.05.20-10.36.48:321][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.05.20-10.37.11:907][339]LogRenderer: Reallocating scene render targets to support 1096x704 Format 10 NumSamples 1 (Frame:286).
+[2020.05.20-10.37.16:269][597]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-10.37.17:252][656]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.37.17:516][671]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.37.17:516][671]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.37.17:516][671]SourceControl: Error: Authentication failed
+[2020.05.20-10.37.20:278][831]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.37.20:457][841]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.37.20:457][841]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.37.20:457][841]SourceControl: Error: Authentication failed
+[2020.05.20-10.37.29:103][356]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-10.37.29:177][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:177][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:177][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:177][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:179][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:179][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:180][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:180][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:202][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:202][356]LoadErrors: Failed to load /Game/Assety_Ola/antresola2_Cube.antresola2_Cube Referenced by antresola2_Cube_2
+[2020.05.20-10.37.29:202][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/antresola2_Cube': Can't find file.
+[2020.05.20-10.37.29:203][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:203][356]LoadErrors: Failed to load /Game/Assety_Ola/drabina_Cube_001.drabina_Cube_001 Referenced by drabina_Cube_001_5
+[2020.05.20-10.37.29:203][356]LogLinker: Warning: While loading 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap' failed to load '/Game/Assety_Ola/drabina_Cube_001': Can't find file.
+[2020.05.20-10.37.29:308][356]LogAIModule: Creating AISystem for world Domek_na_drzewie
+[2020.05.20-10.37.29:311][356]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Domek_na_drzewie.Domek_na_drzewie
+[2020.05.20-10.37.29:347][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.20-10.37.29:348][356]Cmd: MAP LOAD FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-10.37.29:350][356]LightingResults: New page: Lighting Build
+[2020.05.20-10.37.29:351][356]LoadErrors: New page: Loading map: Domek_na_drzewie.umap
+[2020.05.20-10.37.29:352][356]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-10.37.29:352][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-10.37.29:352][356]MapCheck: New page: Map Check
+[2020.05.20-10.37.29:352][356]LightingResults: New page: Lighting Build
+[2020.05.20-10.37.29:387][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.05.20-10.37.29:390][356]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-10.37.29:427][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.20-10.37.29:445][356]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-10.37.29:445][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,151ms to complete.
+[2020.05.20-10.37.29:445][356]LogFileHelpers: Loading map 'Domek_na_drzewie' took 0.097
+[2020.05.20-10.37.29:715][371]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.37.29:910][382]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.37.29:910][382]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.37.29:910][382]SourceControl: Error: Authentication failed
+[2020.05.20-10.39.21:180][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.21:193][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/antresola2.fbx)
+[2020.05.20-10.39.21:269][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/antresola2.fbx
+[2020.05.20-10.39.21:279][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.24:242][536]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.20-10.39.24:393][536]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.05.20-10.39.24:443][536]LogFbx: Display: Triangulating static mesh Cube
+[2020.05.20-10.39.24:483][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.20-10.39.24:483][536]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.20-10.39.24:483][536]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.20-10.39.24:498][536]LogStaticMesh: Building static mesh antresola2_Cube...
+[2020.05.20-10.39.24:516][536]LogStaticMesh: Built static mesh [0.02s] /Game/Assety_Ola/antresola2_Cube.antresola2_Cube
+[2020.05.20-10.39.24:525][536]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.05.20-10.39.24:537][536]LogStaticMesh: Building static mesh antresola2_Cube_001...
+[2020.05.20-10.39.24:539][536]LogStaticMesh: Built static mesh [0.00s] /Game/Assety_Ola/antresola2_Cube_001.antresola2_Cube_001
+[2020.05.20-10.39.24:549][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.24:554][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.24:563][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/drabina.fbx)
+[2020.05.20-10.39.24:634][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/drabina.fbx
+[2020.05.20-10.39.24:641][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.24:643][536]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.05.20-10.39.24:665][536]LogStaticMesh: Building static mesh drabina_Cube_001...
+[2020.05.20-10.39.24:675][536]LogStaticMesh: Built static mesh [0.01s] /Game/Assety_Ola/drabina_Cube_001.drabina_Cube_001
+[2020.05.20-10.39.24:715][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.24:718][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.24:727][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/kij bejsbolowylp.fbx)
+[2020.05.20-10.39.25:025][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/kij bejsbolowylp.fbx
+[2020.05.20-10.39.25:034][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.25:036][536]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.05.20-10.39.25:337][536]LogStaticMesh: Building static mesh kij_bejsbolowylp_Cylinder...
+[2020.05.20-10.39.25:383][536]LogStaticMesh: Built static mesh [0.05s] /Game/Assety_Ola/kij_bejsbolowylp_Cylinder.kij_bejsbolowylp_Cylinder
+[2020.05.20-10.39.25:470][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.25:479][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.25:491][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/kloceklp2.fbx)
+[2020.05.20-10.39.25:589][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/kloceklp2.fbx
+[2020.05.20-10.39.25:596][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.25:600][536]LogFbx: Display: Triangulating static mesh Cube
+[2020.05.20-10.39.25:700][536]LogStaticMesh: Building static mesh kloceklp2_Cube...
+[2020.05.20-10.39.25:712][536]LogStaticMesh: Built static mesh [0.01s] /Game/Assety_Ola/kloceklp2_Cube.kloceklp2_Cube
+[2020.05.20-10.39.25:722][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.25:725][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.25:735][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/klocekpodwójnylp.fbx)
+[2020.05.20-10.39.26:172][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/klocekpodwójnylp.fbx
+[2020.05.20-10.39.26:184][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.26:187][536]LogFbx: Display: Triangulating static mesh Cube
+[2020.05.20-10.39.26:335][536]LogStaticMesh: Building static mesh klocekpodwójnylp_Cube...
+[2020.05.20-10.39.26:373][536]LogStaticMesh: Built static mesh [0.04s] /Game/Assety_Ola/klocekpodwójnylp_Cube.klocekpodwójnylp_Cube
+[2020.05.20-10.39.26:393][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.26:400][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.26:410][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/miecz swietlny lp.fbx)
+[2020.05.20-10.39.26:523][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/miecz swietlny lp.fbx
+[2020.05.20-10.39.26:531][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.26:532][536]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.05.20-10.39.26:571][536]LogStaticMesh: Building static mesh miecz_swietlny_lp_Cylinder...
+[2020.05.20-10.39.26:585][536]LogStaticMesh: Built static mesh [0.01s] /Game/Assety_Ola/miecz_swietlny_lp_Cylinder.miecz_swietlny_lp_Cylinder
+[2020.05.20-10.39.26:658][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.26:661][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.26:673][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/regał.fbx)
+[2020.05.20-10.39.27:172][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/regał.fbx
+[2020.05.20-10.39.27:181][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.27:184][536]LogFbx: Display: Triangulating static mesh Cube
+[2020.05.20-10.39.27:224][536]LogStaticMesh: Building static mesh regał_Cube...
+[2020.05.20-10.39.27:245][536]LogStaticMesh: Built static mesh [0.02s] /Game/Assety_Ola/regał_Cube.regał_Cube
+[2020.05.20-10.39.27:256][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.27:260][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.27:271][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/stolik.fbx)
+[2020.05.20-10.39.27:491][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/stolik.fbx
+[2020.05.20-10.39.27:499][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.27:501][536]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.05.20-10.39.27:640][536]LogStaticMesh: Building static mesh stolik_Cylinder...
+[2020.05.20-10.39.27:672][536]LogStaticMesh: Built static mesh [0.03s] /Game/Assety_Ola/stolik_Cylinder.stolik_Cylinder
+[2020.05.20-10.39.27:683][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.27:686][536]EditorErrors: Warning: Could not check for deleted file. No connection to source control available!
+[2020.05.20-10.39.27:699][536]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/szafkalp.fbx)
+[2020.05.20-10.39.27:942][536]LogFbx: Loading FBX Scene from ../../../../../STUDIA/3D/2 rok/Domek na drzewie/Modele/GOTOWE/szafkalp.fbx
+[2020.05.20-10.39.27:955][536]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.20-10.39.27:959][536]LogFbx: Display: Triangulating static mesh Cube
+[2020.05.20-10.39.28:070][536]LogStaticMesh: Building static mesh szafkalp_Cube...
+[2020.05.20-10.39.28:092][536]LogStaticMesh: Built static mesh [0.02s] /Game/Assety_Ola/szafkalp_Cube.szafkalp_Cube
+[2020.05.20-10.39.28:105][536]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.20-10.39.28:212][537]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\antresola2_Cube.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\Material.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\antresola2_Cube_001.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\drabina_Cube_001.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\kij_bejsbolowylp_Cylinder.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\kloceklp2_Cube.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\klocekpodw?jnylp_Cube.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\miecz_swietlny_lp_Cylinder.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\rega?_Cube.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\stolik_Cylinder.uasset' is not a working copy
+[2020.05.20-10.39.28:264][540]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\szafkalp_Cube.uasset' is not a working copy
+[2020.05.20-10.39.30:935][695]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.39.30:982][697]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\klocekpodw?jnylp_Cube.uasset' is not a working copy
+[2020.05.20-10.39.30:982][697]SourceControl: svn: warning: W155007: 'C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\rega?_Cube.uasset' is not a working copy
+[2020.05.20-10.40.56:540][663]LogActorFactory: Actor Factory created antresola2_Cube
+[2020.05.20-10.40.57:343][711]LogActorFactory: Actor Factory created antresola2_Cube
+[2020.05.20-10.40.57:388][712]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.40.57:529][719]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.40.57:529][719]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.40.57:529][719]SourceControl: Error: Authentication failed
+[2020.05.20-10.41.59:145][367]LogEditorViewport: Clicking Background
+[2020.05.20-10.42.11:169][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.05.20-10.42.11:197][ 80]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.11:472][ 80]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.11:472][ 80]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.11:472][ 80]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.11:520][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Domek_na_drzewie" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.20-10.42.11:554][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.20-10.42.11:605][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Domek_na_drzewieAF9D3C1945BC18A436BD728FDE8A6FEA.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap'
+[2020.05.20-10.42.11:625][ 80]LogFileHelpers: Saving map 'Domek_na_drzewie' took 0.105
+[2020.05.20-10.42.11:639][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/szafkalp_Cube" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset" SILENT=true
+[2020.05.20-10.42.11:662][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/szafkalp_CubeA4AA5D9D439ACA5F987223874377E234.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset'
+[2020.05.20-10.42.11:698][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:079][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/szafkalp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:126][ 80]SourceControl: A         C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola
+[2020.05.20-10.42.12:126][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\szafkalp_Cube.uasset
+[2020.05.20-10.42.12:148][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/antresola2_Cube" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset" SILENT=true
+[2020.05.20-10.42.12:167][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/antresola2_CubeC632F7734D37679B601A739FB18E2023.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset'
+[2020.05.20-10.42.12:196][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:245][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:291][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\antresola2_Cube.uasset
+[2020.05.20-10.42.12:307][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/Material" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset" SILENT=true
+[2020.05.20-10.42.12:322][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/MaterialCF81509441DA4B0AE33800B2DBC3FDD2.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset'
+[2020.05.20-10.42.12:346][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:393][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/Material.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:441][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\Material.uasset
+[2020.05.20-10.42.12:460][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/antresola2_Cube_001" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset" SILENT=true
+[2020.05.20-10.42.12:484][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/antresola2_Cube_0019F4A7A5744C13A50B26D329AFE1B93FE.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset'
+[2020.05.20-10.42.12:513][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:561][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/antresola2_Cube_001.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:608][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\antresola2_Cube_001.uasset
+[2020.05.20-10.42.12:624][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/stolik_Cylinder" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset" SILENT=true
+[2020.05.20-10.42.12:646][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/stolik_Cylinder26985A1D4EB70A068C1630856697FE1D.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset'
+[2020.05.20-10.42.12:679][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:822][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/stolik_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:882][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\stolik_Cylinder.uasset
+[2020.05.20-10.42.12:899][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/drabina_Cube_001" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset" SILENT=true
+[2020.05.20-10.42.12:918][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/drabina_Cube_001CD1F53224254A4A8ADF649BCE0D7804A.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset'
+[2020.05.20-10.42.12:947][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.12:994][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/drabina_Cube_001.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:042][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\drabina_Cube_001.uasset
+[2020.05.20-10.42.13:059][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/regał_Cube" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" SILENT=true
+[2020.05.20-10.42.13:078][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/regał_CubeD8939EB94DC37D04367989BAFF20364A.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset'
+[2020.05.20-10.42.13:114][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:161][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:221][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\rega?_Cube.uasset
+[2020.05.20-10.42.13:239][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/kij_bejsbolowylp_Cylinder" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset" SILENT=true
+[2020.05.20-10.42.13:272][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/kij_bejsbolowylp_Cylinder3FA6793B4012AE8A30D14CAA8EB9B40E.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset'
+[2020.05.20-10.42.13:297][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:344][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kij_bejsbolowylp_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:392][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\kij_bejsbolowylp_Cylinder.uasset
+[2020.05.20-10.42.13:408][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/miecz_swietlny_lp_Cylinder" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset" SILENT=true
+[2020.05.20-10.42.13:428][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/miecz_swietlny_lp_Cylinder19B69A8F414250603D19949E1970B31F.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset'
+[2020.05.20-10.42.13:463][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:509][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/miecz_swietlny_lp_Cylinder.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:557][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\miecz_swietlny_lp_Cylinder.uasset
+[2020.05.20-10.42.13:573][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/kloceklp2_Cube" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset" SILENT=true
+[2020.05.20-10.42.13:590][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/kloceklp2_CubeDB569AE04E0720D3930BF485F765106A.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset'
+[2020.05.20-10.42.13:612][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:660][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/kloceklp2_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:707][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\kloceklp2_Cube.uasset
+[2020.05.20-10.42.13:726][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assety_Ola/klocekpodwójnylp_Cube" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" SILENT=true
+[2020.05.20-10.42.13:755][ 80]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/klocekpodwójnylp_Cube9DB4C4F64D0F37C3833636BD2219A198.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset'
+[2020.05.20-10.42.13:779][ 80]LogSourceControl: Attempting "svn add --force --parents "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:826][ 80]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.13:873][ 80]SourceControl: A  (bin)  C:\Users\Aleks\Documents\Pizza Party SVN\Domek_na_drzewie\Content\Assety_Ola\klocekpodw?jnylp_Cube.uasset
+[2020.05.20-10.42.13:927][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-10.42.13:927][ 80]LogContentValidation: Display: Validating World /Game/Maps/Domek_na_drzewie.Domek_na_drzewie
+[2020.05.20-10.42.13:927][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/szafkalp_Cube.szafkalp_Cube
+[2020.05.20-10.42.13:927][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/antresola2_Cube.antresola2_Cube
+[2020.05.20-10.42.13:927][ 80]LogContentValidation: Display: Validating Material /Game/Assety_Ola/Material.Material
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/antresola2_Cube_001.antresola2_Cube_001
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/stolik_Cylinder.stolik_Cylinder
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/drabina_Cube_001.drabina_Cube_001
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/regał_Cube.regał_Cube
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/kij_bejsbolowylp_Cylinder.kij_bejsbolowylp_Cylinder
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/miecz_swietlny_lp_Cylinder.miecz_swietlny_lp_Cylinder
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/kloceklp2_Cube.kloceklp2_Cube
+[2020.05.20-10.42.13:928][ 80]LogContentValidation: Display: Validating StaticMesh /Game/Assety_Ola/klocekpodwójnylp_Cube.klocekpodwójnylp_Cube
+[2020.05.20-10.42.13:935][ 81]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/regał_Cube.uasset" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Assety_Ola/klocekpodwójnylp_Cube.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.14:136][ 90]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.14:136][ 90]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.14:136][ 90]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.23:113][612]LogActorFactory: Actor Factory created drabina_Cube_001
+[2020.05.20-10.42.24:051][668]LogActorFactory: Actor Factory created drabina_Cube_001
+[2020.05.20-10.42.24:078][668]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.24:286][678]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.24:286][678]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.24:287][678]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.43:567][819]LogEditorViewport: Clicking Background
+[2020.05.20-10.42.48:786][128]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.48:976][128]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.48:976][128]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.48:976][128]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.49:043][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Domek_na_drzewie" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.20-10.42.49:080][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.05.20-10.42.49:130][128]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Domek_na_drzewie62FD2041476A34C924912FBE2F38DA51.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap'
+[2020.05.20-10.42.49:185][128]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.49:376][128]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.49:376][128]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.49:376][128]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.49:382][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Domek_na_drzewie_BuiltData" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" SILENT=true
+[2020.05.20-10.42.49:456][128]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Domek_na_drzewie_BuiltData0BD2A8724C755CB6D6CD108113E47CA0.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset'
+[2020.05.20-10.42.49:469][128]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-10.42.49:469][128]LogContentValidation: Display: Validating World /Game/Maps/Domek_na_drzewie.Domek_na_drzewie
+[2020.05.20-10.42.49:469][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Domek_na_drzewie_BuiltData.Domek_na_drzewie_BuiltData
+[2020.05.20-10.42.49:481][129]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.49:666][140]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.49:667][140]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.49:667][140]SourceControl: Error: Authentication failed
+[2020.05.20-10.42.53:954][385]LogActorFactory: Actor Factory created szafkalp_Cube
+[2020.05.20-10.42.54:658][427]LogActorFactory: Actor Factory created szafkalp_Cube
+[2020.05.20-10.42.54:698][428]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.42.54:867][436]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.42.54:867][436]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.42.54:867][436]SourceControl: Error: Authentication failed
+[2020.05.20-10.43.03:244][933]Cmd: TRANSACTION UNDO
+[2020.05.20-10.43.03:244][933]LogEditorTransaction: Undo Move Actors
+[2020.05.20-10.43.30:754][539]LogEditorViewport: Clicking Background
+[2020.05.20-10.43.49:049][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szafkalp_Cube)
+[2020.05.20-10.43.59:773][246]LogEditorViewport: Clicking Background
+[2020.05.20-10.44.20:253][134]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.44.20:445][134]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.44.20:445][134]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.44.20:445][134]SourceControl: Error: Authentication failed
+[2020.05.20-10.44.20:491][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Domek_na_drzewie" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.20-10.44.20:528][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.20-10.44.20:582][134]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Domek_na_drzewie2A5A8E7342861850570DD29CF4B6F057.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap'
+[2020.05.20-10.44.20:640][134]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.44.20:921][134]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.44.20:921][134]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.44.20:921][134]SourceControl: Error: Authentication failed
+[2020.05.20-10.44.20:927][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Domek_na_drzewie_BuiltData" FILE="C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" SILENT=true
+[2020.05.20-10.44.20:989][134]LogSavePackage: Moving 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Saved/Domek_na_drzewie_BuiltData20E96A81408AD9EA396FE29CEEB1CEEA.tmp' to 'C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset'
+[2020.05.20-10.44.21:004][134]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-10.44.21:004][134]LogContentValidation: Display: Validating World /Game/Maps/Domek_na_drzewie.Domek_na_drzewie
+[2020.05.20-10.44.21:004][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Domek_na_drzewie_BuiltData.Domek_na_drzewie_BuiltData
+[2020.05.20-10.44.21:020][135]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie_BuiltData.uasset" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.44.21:308][152]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.44.21:308][152]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.44.21:308][152]SourceControl: Error: Authentication failed
+[2020.05.20-10.44.22:498][223]LogEditorViewport: Clicking Background
+[2020.05.20-10.44.24:139][314]LogActorFactory: Actor Factory created regał_Cube
+[2020.05.20-10.44.24:881][358]LogActorFactory: Actor Factory created regał_Cube
+[2020.05.20-10.44.24:923][359]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/Aleks/Documents/Pizza Party SVN/Domek_na_drzewie/Content/Maps/Domek_na_drzewie.umap" --non-interactive --trust-server-cert --username mkrzyzaniak --password ********"
+[2020.05.20-10.44.25:092][367]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'http://usvn.us.edu.pl/svn/PPnD/trunk/Domek_na_drzewie/Content/Maps'
+[2020.05.20-10.44.25:092][367]SourceControl: Error: svn: E215004: No more credentials or we tried too many times.
+[2020.05.20-10.44.25:092][367]SourceControl: Error: Authentication failed
+[2020.05.20-10.44.38:799][174]Cmd: TRANSACTION UNDO
+[2020.05.20-10.44.38:799][174]LogEditorTransaction: Undo Move Actors
+[2020.05.20-10.44.41:936][197]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SyncInterval 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.Width 276
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.Height 68
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.OutputWindow 00000000008B0F6A
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.05.20-10.44.42:259][197]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.05.20-10.44.42:259][197]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.05.20-10.44.42:259][197]LogD3D11RHI: [Aftermath] GDynamicRHI=0000015F5BD140C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.05.20-10.44.42:259][197]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)
